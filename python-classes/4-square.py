@@ -2,7 +2,6 @@
 """Module that defines a Square class with size and print methods."""
 
 
-
 class Square:
     """Square class with size validation and visual print."""
 
