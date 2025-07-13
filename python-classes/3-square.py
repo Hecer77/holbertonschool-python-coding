@@ -2,7 +2,6 @@
 """Module that defines a Square class with size property and area method."""
 
 
-
 class Square:
     """Square class with a private size attribute and property methods."""
 
